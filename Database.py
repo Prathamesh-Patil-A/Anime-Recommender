@@ -473,7 +473,7 @@ anime_database = [
         "genre": ["Drama", "Slice of Life", "Psychological"],
         "imdb_rating": 8.3,
         "description": "A deeply depressed, orphaned teenage professional shogi player slowly learns to open up and heal through his relationship with three warm-hearted sisters."
-    }
+    },
     {
         "title": "Serial Experiments Lain",
         "studio": "Triangle Staff",
