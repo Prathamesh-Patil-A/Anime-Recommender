@@ -4,6 +4,6 @@
 
 **Registration Number**: 25BME10014
 
-**Program*: B.Tech (Mechanical Core Engineering)
+**Program**: B.Tech (Mechanical Core Engineering)
 
 **University**: VIT Bhopal University
