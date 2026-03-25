@@ -4,7 +4,7 @@
 🔴 **Live Demo:** [Click here to try the Web App!](https://anime-recommender-xsounabutjxysatwfbdh4f.streamlit.app/)
 
 ## 📌 Project Overview
-This project was developed as a "Bring Your Own Project" (BYOP) capstone. The core problem it solves is **decision fatigue**—the phenomenon where users spend more time scrolling through massive streaming catalogs than actually watching content. 
+This project was developed as a "Bring Your Own Project" (BYOP) capstone. The core problem it solves is **decision fatigue** the phenomenon where users spend more time scrolling through massive streaming catalogs than actually watching content. 
 
 This application allows users to input their specific tastes (genres, preferred studios, minimum IMDb ratings, and creators) and utilizes a custom filtering algorithm to present a single, high-quality, randomized recommendation complete with a spoiler-free synopsis.
 
