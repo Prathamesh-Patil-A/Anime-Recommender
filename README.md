@@ -1,7 +1,7 @@
 # 🎬 Anime Recommender
 **A Data-Driven Solution to Streaming Decision Fatigue**
 
-🔴 **Live Demo:** [Click here to try the Web App!]([https://anime-recommender-xsounabutjxysatwfbdh4f.streamlit.app/])
+🔴 **Live Demo:** [Click here to try the Web App!](https://anime-recommender-xsounabutjxysatwfbdh4f.streamlit.app/)
 
 ## 📌 Project Overview
 This project was developed as a "Bring Your Own Project" (BYOP) capstone. The core problem it solves is **decision fatigue**—the phenomenon where users spend more time scrolling through massive streaming catalogs than actually watching content. 
